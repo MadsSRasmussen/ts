@@ -1,5 +1,6 @@
 {
   "workspace": [
-    "./packages/hello-world"
+    "./packages/hello-world",
+    "./applications/cli/hello"
   ]
 }
