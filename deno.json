@@ -2,7 +2,13 @@
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
+  "workspace": [
+    "./packages/hello-world"
+  ],
   "imports": {
     "@std/assert": "jsr:@std/assert@1"
+  },
+  "fmt": {
+    "indentWidth": 2
   }
 }
