@@ -3,6 +3,7 @@
     "./packages/hello-world",
     "./packages/prompts",
     "./applications/cli/hello",
-    "./applications/cli/prompts-cli"
+    "./applications/cli/prompts-cli",
+    "./applications/servers/prompts-server"
   ]
 }
